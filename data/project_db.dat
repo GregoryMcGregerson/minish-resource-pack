@@ -1,6 +1,6 @@
 map{ id = "test", description = "test map" }
 
-tileset{ id = "temp", description = "temporay" }
+tileset{ id = "temp", description = "temporary" }
 
 sprite{ id = "enemies/enemy_killed", description = "Enemy killed" }
 sprite{ id = "entities/arrow", description = "Arrow" }
@@ -23,7 +23,7 @@ sprite{ id = "hero/shield1", description = "Hero shield 1" }
 sprite{ id = "hero/sword1", description = "Hero sword 1" }
 sprite{ id = "hero/sword_stars1", description = "Hero sword stars 1" }
 sprite{ id = "hero/trail", description = "Hero trail" }
-sprite{ id = "hero/tunic1", description = "required" }
+sprite{ id = "hero/tunic1", description = "Hero tunic 1" }
 sprite{ id = "menus/solarus_logo", description = "Menu: Solarus logo" }
 
 
