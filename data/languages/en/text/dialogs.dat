@@ -1,0 +1,8 @@
+dialog{
+  id = "pause.save",
+  text = [[
+Do you want to save your game ?
+            $? Yes
+            $? No
+]]
+}

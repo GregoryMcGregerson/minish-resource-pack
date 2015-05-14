@@ -1,0 +1,22 @@
+animation{
+  name = "sword",
+  src_image = "hero/sword.sword1.png",
+  frame_delay = 16,
+  directions = {
+    { x = 0, y = 0, frame_width = 64, frame_height = 64, origin_x = 32, origin_y = 44, num_frames = 15 },
+    { x = 0, y = 64, frame_width = 64, frame_height = 64, origin_x = 32, origin_y = 44, num_frames = 15 },
+    { x = 0, y = 128, frame_width = 64, frame_height = 64, origin_x = 32, origin_y = 44, num_frames = 15 },
+    { x = 0, y = 192, frame_width = 64, frame_height = 64, origin_x = 32, origin_y = 44, num_frames = 15 },
+  },
+}
+animation{
+  name = "sword_capless",
+  src_image = "hero/sword.sword1.capless.png",
+  frame_delay = 16,
+  directions = {
+    { x = 0, y = 0, frame_width = 64, frame_height = 64, origin_x = 32, origin_y = 44, num_frames = 15 },
+    { x = 0, y = 64, frame_width = 64, frame_height = 64, origin_x = 32, origin_y = 44, num_frames = 15 },
+    { x = 0, y = 128, frame_width = 64, frame_height = 64, origin_x = 32, origin_y = 44, num_frames = 15 },
+    { x = 0, y = 192, frame_width = 64, frame_height = 64, origin_x = 32, origin_y = 44, num_frames = 15 },
+  },
+}

@@ -1,0 +1,15 @@
+properties{
+  x = 0,
+  y = 0,
+  width = 640,
+  height = 480,
+  tileset = "temp",
+}
+
+destination{
+  layer = 0,
+  x = 320,
+  y = 245,
+  direction = 3,
+}
+
