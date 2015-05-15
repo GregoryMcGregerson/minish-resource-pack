@@ -80,10 +80,10 @@ sound{ id = "wrong", description = "wrong" }
 
 language{ id = "en", description = "English" }
 
-font{ id = "minish_white", description = "minish_white" }
 font{ id = "minish_blue", description = "minish_blue" }
+font{ id = "minish_bold", description = "minish_bold" }
 font{ id = "minish_green", description = "minish_green" }
 font{ id = "minish_red", description = "minish_red" }
-font{ id = "minish_bold", description = "minish_bold" }
+font{ id = "minish_white", description = "minish_white" }
 font{ id = "rupee", description = "rupee" }
 

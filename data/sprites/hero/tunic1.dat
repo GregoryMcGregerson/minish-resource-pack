@@ -24,7 +24,7 @@ animation{
 }
 animation{
   name = "grabbing",
-  src_image = "hero/temp.png",
+  src_image = "hero/WIP.png",
   directions = {
     { x = 0, y = 0, frame_width = 16, frame_height = 16, origin_x = 8, origin_y = 8 },
     { x = 0, y = 0, frame_width = 16, frame_height = 16, origin_x = 8, origin_y = 8 },
@@ -33,8 +33,19 @@ animation{
   },
 }
 animation{
+  name = "lifting",
+  src_image = "hero/lifting.tunic1.png",
+  frame_delay = 16,
+  directions = {
+    { x = 0, y = 0, frame_width = 64, frame_height = 64, origin_x = 32, origin_y = 44, num_frames = 25 },
+    { x = 0, y = 64, frame_width = 64, frame_height = 64, origin_x = 32, origin_y = 44, num_frames = 25 },
+    { x = 0, y = 128, frame_width = 64, frame_height = 64, origin_x = 32, origin_y = 44, num_frames = 25 },
+    { x = 0, y = 192, frame_width = 64, frame_height = 64, origin_x = 32, origin_y = 44, num_frames = 25 },
+  },
+}
+animation{
   name = "pulling",
-  src_image = "hero/temp.png",
+  src_image = "hero/WIP.png",
   directions = {
     { x = 0, y = 0, frame_width = 16, frame_height = 16, origin_x = 8, origin_y = 8 },
     { x = 0, y = 0, frame_width = 16, frame_height = 16, origin_x = 8, origin_y = 8 },
@@ -44,12 +55,23 @@ animation{
 }
 animation{
   name = "pushing",
-  src_image = "hero/temp.png",
+  src_image = "hero/WIP.png",
   directions = {
     { x = 0, y = 0, frame_width = 16, frame_height = 16, origin_x = 8, origin_y = 8 },
     { x = 0, y = 0, frame_width = 16, frame_height = 16, origin_x = 8, origin_y = 8 },
     { x = 0, y = 0, frame_width = 16, frame_height = 16, origin_x = 8, origin_y = 8 },
     { x = 0, y = 0, frame_width = 16, frame_height = 16, origin_x = 8, origin_y = 8 },
+  },
+}
+animation{
+  name = "roc_cape_jump",
+  src_image = "hero/rocjump.tunic1.png",
+  frame_delay = 16,
+  directions = {
+    { x = 0, y = 0, frame_width = 64, frame_height = 64, origin_x = 32, origin_y = 44, num_frames = 40 },
+    { x = 0, y = 64, frame_width = 64, frame_height = 64, origin_x = 32, origin_y = 44, num_frames = 40 },
+    { x = 0, y = 128, frame_width = 64, frame_height = 64, origin_x = 32, origin_y = 44, num_frames = 40 },
+    { x = 0, y = 192, frame_width = 64, frame_height = 64, origin_x = 32, origin_y = 44, num_frames = 40 },
   },
 }
 animation{
