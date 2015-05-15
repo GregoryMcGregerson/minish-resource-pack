@@ -56,7 +56,7 @@ function dialog_box_manager:create(game)
   local box_height = 32
 
   -- Initialize dialog box data.
-  local dialog_font = "minish"
+  local dialog_font = "minish_white"
   for i = 1, nb_visible_lines do
     dialog_box.lines[i] = ""
     dialog_box.line_surfaces[i] = sol.text_surface.create{
