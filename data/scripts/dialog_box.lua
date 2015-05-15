@@ -45,18 +45,18 @@ function dialog_box_manager:create(game)
   }
 
   -- Constants.
-  local nb_visible_lines = 4     -- Maximum number of lines in the dialog box.
+  local nb_visible_lines = 2     -- Maximum number of lines in the dialog box.
   local char_delays = {
     slow = 60,
     medium = 40,
     fast = 20  -- Default.
   }
   local letter_sound_delay = 100
-  local box_width = 220
-  local box_height = 60
+  local box_width = 200
+  local box_height = 32
 
   -- Initialize dialog box data.
-  local dialog_font = "8_bit"
+  local dialog_font = "minish"
   for i = 1, nb_visible_lines do
     dialog_box.lines[i] = ""
     dialog_box.line_surfaces[i] = sol.text_surface.create{

@@ -80,6 +80,6 @@ sound{ id = "wrong", description = "wrong" }
 
 language{ id = "en", description = "English" }
 
-font{ id = "8_bit", description = "8_bit" }
-font{ id = "minecraftia", description = "minecraftia" }
+font{ id = "minish", description = "minish" }
+font{ id = "rupee", description = "rupee" }
 

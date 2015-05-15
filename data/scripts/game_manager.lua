@@ -55,13 +55,13 @@ function game_manager:create(file)
 
   local rupee_icon = sol.surface.create("hud/rupee_icon.png")
   local rupee_text = sol.text_surface.create()
-  rupee_text:set_font("8_bit")
+  rupee_text:set_font("rupee")
 
   function game:on_draw(dst_surface)
 
-    rupee_icon:draw_region(0, 0, 12, 12, dst_surface, 10, 220)
+    rupee_icon:draw_region(0, 0, 16, 16, dst_surface, 256, 216)
     rupee_text:set_text(game:get_money())
-    rupee_text:draw(dst_surface, 25, 225)
+    rupee_text:draw(dst_surface, 272, 224)
   end
 
   return game
