@@ -1,0 +1,24 @@
+smith's sword - works fine, no charging for capless
+white sword - breaks
+two element sword - breaks
+three element sword - breaks
+four sword - breaks
+bow - breaks
+boomerang - breaks
+lantern - no capless animation
+gust jar - breaks
+cane of pacci - breaks
+mole mitts - no capless animation
+roc's cape - jump works, flying after holding doesn't have a capless animation
+pegasus boots - no capless animation
+flame rod - not in game, probally uses cane of pacci animation
+ocarina of wind - breaks
+bottle - no capless animation
+climbing - no capless animation
+
+
+shields (didn't test)
+rolling - works
+swimming (didn't test)
+plunging (didn't test)
+jumping (didn't test)

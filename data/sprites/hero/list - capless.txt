@@ -1,0 +1,83 @@
+-----------------------------------------------------------------------------------------------------------------------
+
+	TUNIC
+	boomerang1			hero/boomerang.tunic.png
+	boomerang2			hero/boomerang.tunic.png
+	bow				hero/bow.tunic.png
+	brandish			hero/miscellaneous.png
+	carrying_stopped		hero/carrying.png
+*	carrying_walking		hero/carrying.png
+	dying				hero/dying.png
+	falling				hero/falling.png
+	grabbing			hero/grabbing.png
+	hookshot			hero/hookshot.tunic.png
++	hurt				hero/miscellaneous.png
+	jumping				hero/jumping.png
+*	lifting				hero/lifting.png
+	plunging_lava			hero/plunging.png
+	plunging_water			hero/plunging.png
+	pulling				hero/pulling.png
+	pushing				hero/pushing.png
+	spin_attack			hero/spin_attack.tunic1.png
+*	stopped				hero/stopped.tunic.png
+	stopped_with_shield		hero/stopped.tunic.png
+	super_spin_attack		hero/spin_attack.tunic1.png
+	swimming_fast			hero/swimming.png
+	swimming_slow			hero/swimming.png
+	swimming_stopped		hero/swimming.png
+*	sword				hero/sword.tunic1.png
+	sword_loading_stopped		hero/loading.tunic1.png
+	sword_loading_walking		hero/loading.tunic1.png
+	sword_tapping			hero/sword_tapping.tunic.png
+	victory				hero/victory.tunic.png
+*	walking				hero/walking.tunic.png
+	walking_diagonal		hero/walking.tunic.png
+	walking_with_shield		hero/walking.tunic.png
+
+-----------------------------------------------------------------------------------------------------------------------
+
+	SWORD
+	spin_attack			hero/spin_attack.sword1.png
+	super_spin_attack		hero/spin_attack.sword1.png
+*	sword				hero/sword.sword1.png
+	sword_loading_stopped		hero/loading.sword1.png
+	sword_loading_walking		hero/loading.sword1.png
+	sword_tapping			hero/sword_tapping.sword.png
+	victory				hero/victory.sword.png
+
+-----------------------------------------------------------------------------------------------------------------------
+
+	SWORD_STARS
+	loading				hero/loading.sword_stars1.png
+
+-----------------------------------------------------------------------------------------------------------------------
+
+	SHIELD
+	boomerang			hero/boomerang.shield.png
+	hookshot			hero/hookshot.shield.png
+	stopped				hero/stopped.shield.png
+	sword				hero/sword.shield1.png
+	sword_loading_stopped		hero/loading.shield1.png
+	sword_loading_walking		hero/loading.shield1.png
+	sword_tapping			hero/sword_tapping.shield.png
+	walking				hero/walking.shield.png
+		
+-----------------------------------------------------------------------------------------------------------------------
+
+	TRAIL
+	running				hero/running.png
+
+-----------------------------------------------------------------------------------------------------------------------
+
+	NEW FROM MC
+	lantern
+	gust_jar
+	cane_of_pacci
+	mole_mitts
+*	rocs_cape
+	pegasus_boots
+	flame_rod
+	ocarina_of_wind
+	bottle
+	rolling
+*	shield
