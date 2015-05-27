@@ -3,7 +3,232 @@ properties{
   y = 0,
   width = 640,
   height = 480,
-  tileset = "temp",
+  tileset = "outside/HyruleTown",
+}
+
+tile{
+  layer = 0,
+  x = 368,
+  y = 264,
+  width = 16,
+  height = 16,
+  pattern = "015_003",
+}
+
+tile{
+  layer = 0,
+  x = 256,
+  y = 192,
+  width = 16,
+  height = 16,
+  pattern = "056_003",
+}
+
+tile{
+  layer = 0,
+  x = 272,
+  y = 176,
+  width = 16,
+  height = 16,
+  pattern = "055_004",
+}
+
+tile{
+  layer = 0,
+  x = 336,
+  y = 144,
+  width = 16,
+  height = 16,
+  pattern = "053_008",
+}
+
+tile{
+  layer = 0,
+  x = 288,
+  y = 160,
+  width = 16,
+  height = 16,
+  pattern = "054_005",
+}
+
+tile{
+  layer = 0,
+  x = 256,
+  y = 160,
+  width = 16,
+  height = 16,
+  pattern = "054_003",
+}
+
+tile{
+  layer = 0,
+  x = 320,
+  y = 192,
+  width = 16,
+  height = 16,
+  pattern = "056_007",
+}
+
+tile{
+  layer = 0,
+  x = 304,
+  y = 176,
+  width = 16,
+  height = 16,
+  pattern = "055_006",
+}
+
+tile{
+  layer = 0,
+  x = 256,
+  y = 176,
+  width = 16,
+  height = 16,
+  pattern = "055_003",
+}
+
+tile{
+  layer = 0,
+  x = 320,
+  y = 176,
+  width = 16,
+  height = 16,
+  pattern = "055_007",
+}
+
+tile{
+  layer = 0,
+  x = 288,
+  y = 144,
+  width = 16,
+  height = 16,
+  pattern = "053_005",
+}
+
+tile{
+  layer = 0,
+  x = 272,
+  y = 160,
+  width = 16,
+  height = 16,
+  pattern = "054_004",
+}
+
+tile{
+  layer = 0,
+  x = 304,
+  y = 160,
+  width = 16,
+  height = 16,
+  pattern = "054_006",
+}
+
+tile{
+  layer = 0,
+  x = 336,
+  y = 160,
+  width = 16,
+  height = 16,
+  pattern = "054_008",
+}
+
+tile{
+  layer = 0,
+  x = 288,
+  y = 176,
+  width = 16,
+  height = 16,
+  pattern = "055_005",
+}
+
+tile{
+  layer = 0,
+  x = 336,
+  y = 176,
+  width = 16,
+  height = 16,
+  pattern = "055_008",
+}
+
+tile{
+  layer = 0,
+  x = 256,
+  y = 144,
+  width = 16,
+  height = 16,
+  pattern = "053_003",
+}
+
+tile{
+  layer = 0,
+  x = 320,
+  y = 144,
+  width = 16,
+  height = 16,
+  pattern = "053_007",
+}
+
+tile{
+  layer = 0,
+  x = 336,
+  y = 192,
+  width = 16,
+  height = 16,
+  pattern = "056_008",
+}
+
+tile{
+  layer = 0,
+  x = 320,
+  y = 160,
+  width = 16,
+  height = 16,
+  pattern = "054_007",
+}
+
+tile{
+  layer = 0,
+  x = 304,
+  y = 192,
+  width = 16,
+  height = 16,
+  pattern = "056_006",
+}
+
+tile{
+  layer = 0,
+  x = 272,
+  y = 144,
+  width = 16,
+  height = 16,
+  pattern = "053_004",
+}
+
+tile{
+  layer = 0,
+  x = 272,
+  y = 192,
+  width = 16,
+  height = 16,
+  pattern = "056_004",
+}
+
+tile{
+  layer = 0,
+  x = 304,
+  y = 144,
+  width = 16,
+  height = 16,
+  pattern = "053_006",
+}
+
+tile{
+  layer = 0,
+  x = 288,
+  y = 192,
+  width = 16,
+  height = 16,
+  pattern = "056_005",
 }
 
 destination{

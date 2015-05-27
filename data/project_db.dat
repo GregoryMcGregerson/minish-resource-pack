@@ -1,6 +1,86 @@
 map{ id = "test", description = "test map" }
 
+tileset{ id = "dungeon/2C", description = "2C" }
+tileset{ id = "dungeon/34", description = "34" }
+tileset{ id = "dungeon/36", description = "36" }
+tileset{ id = "dungeon/37", description = "37" }
+tileset{ id = "dungeon/41", description = "41" }
+tileset{ id = "dungeon/45", description = "45" }
+tileset{ id = "dungeon/Cave-CastorWilds", description = "Cave - Castor Wilds" }
+tileset{ id = "dungeon/Cave-HyruleCastleGarden", description = "Cave - Hyrule Castle Garden" }
+tileset{ id = "dungeon/Cave-HyruleField", description = "Cave - Hyrule Field" }
+tileset{ id = "dungeon/Cave-HyruleTown", description = "Cave - Hyrule Town" }
+tileset{ id = "dungeon/Cave-MinishWoods", description = "Cave - Minish Woods" }
+tileset{ id = "dungeon/Cave-MountCrenel", description = "Cave - Mount Crenel" }
+tileset{ id = "dungeon/Cave-VeilFalls", description = "Cave - Veil Falls" }
+tileset{ id = "dungeon/CaveOfFlames-1", description = "Cave of Flames - 1" }
+tileset{ id = "dungeon/CaveOfFlames-2", description = "Cave of Flames - 2" }
+tileset{ id = "dungeon/DarkHyruleCastle-1", description = "Dark Hyrule Castle - 1" }
+tileset{ id = "dungeon/DarkHyruleCastle-2", description = "Dark Hyrule Castle - 2" }
+tileset{ id = "dungeon/DarkHyruleCastle-3", description = "Dark Hyrule Castle - 3" }
+tileset{ id = "dungeon/DarkHyruleCastle-4", description = "Dark Hyrule Castle - 4" }
+tileset{ id = "dungeon/DarkHyruleCastle-5", description = "Dark Hyrule Castle - 5" }
+tileset{ id = "dungeon/DarkHyruleCastle-6", description = "Dark Hyrule Castle - 6" }
+tileset{ id = "dungeon/DeepwoodShrine-1", description = "Deepwood Shrine - 1" }
+tileset{ id = "dungeon/DeepwoodShrine-2", description = "Deepwood Shrine - 2" }
+tileset{ id = "dungeon/ElementalSanctuary", description = "Elemental Sanctuary" }
+tileset{ id = "dungeon/FortressOfWinds", description = "Fortress of Winds" }
+tileset{ id = "dungeon/GoronCave", description = "Goron Cave" }
+tileset{ id = "dungeon/GreatFairyFountain-MinishWoods", description = "Great Fairy Fountain - Minish Woods" }
+tileset{ id = "dungeon/GreatFairyFountain-MountCrenel", description = "Great Fairy Fountain - Mount Crenel" }
+tileset{ id = "dungeon/GreatFairyFountain-RoyalValley", description = "Great Fairy Fountain - Royal Valley" }
+tileset{ id = "dungeon/HyruleCastle", description = "Hyrule Castle" }
+tileset{ id = "dungeon/Mazaal", description = "Mazaal" }
+tileset{ id = "dungeon/MinishDoor", description = "Minish Door" }
+tileset{ id = "dungeon/PalaceOfWinds", description = "Palace of Winds" }
+tileset{ id = "dungeon/RoyalCrypt", description = "Royal Crypt" }
+tileset{ id = "dungeon/TempleOfDroplets", description = "Temple of Droplets" }
+tileset{ id = "inside/24", description = "24" }
+tileset{ id = "inside/27-00", description = "27-00" }
+tileset{ id = "inside/27-01", description = "27-01" }
+tileset{ id = "inside/27-03", description = "27-03" }
+tileset{ id = "inside/27-05", description = "27-05" }
+tileset{ id = "inside/27-06", description = "27-06" }
+tileset{ id = "inside/38", description = "38" }
+tileset{ id = "inside/Dojo-Grayblade", description = "Dojo - Grayblade" }
+tileset{ id = "inside/Dojo-Grimblade", description = "Dojo - Grimblade" }
+tileset{ id = "inside/Dojo-Scarblade", description = "Dojo - Scarblade" }
+tileset{ id = "inside/Dojo-Splitblade", description = "Dojo - Splitblade" }
+tileset{ id = "inside/Dojo-Swiftblade", description = "Dojo - Swiftblade" }
+tileset{ id = "inside/Dojo-Waveblade", description = "Dojo - Waveblade" }
+tileset{ id = "inside/House-Type1", description = "House - Type1" }
+tileset{ id = "inside/House-Type2", description = "House - Type2" }
+tileset{ id = "inside/House-Type3", description = "House - Type3" }
+tileset{ id = "inside/House-Type4", description = "House - Type4" }
+tileset{ id = "inside/House-Type5", description = "House - Type5" }
+tileset{ id = "inside/Melari'sMines", description = "Melari's Mines" }
+tileset{ id = "outside/CastorWilds", description = "Castor Wilds" }
+tileset{ id = "outside/CloudTops", description = "Cloud Tops" }
+tileset{ id = "outside/HyruleCastleGarden", description = "Hyrule Castle Garden" }
+tileset{ id = "outside/HyruleField", description = "Hyrule Field" }
+tileset{ id = "outside/HyruleTown", description = "Hyrule Town" }
+tileset{ id = "outside/LakeHylia", description = "Lake Hylia" }
+tileset{ id = "outside/MinishWoods", description = "Minish Woods" }
+tileset{ id = "outside/MountCrenel", description = "Mount Crenel" }
+tileset{ id = "outside/RoyalValley", description = "Royal Valley" }
+tileset{ id = "outside/VeilFalls", description = "Veil Falls" }
+tileset{ id = "outside/WindRuins", description = "Wind Ruins" }
 tileset{ id = "temp", description = "temporary" }
+tileset{ id = "unknown/0D", description = "0D" }
+tileset{ id = "unknown/11-00", description = "11-00" }
+tileset{ id = "unknown/11-01", description = "11-01" }
+tileset{ id = "unknown/11-02", description = "11-02" }
+tileset{ id = "unknown/12-00", description = "12-00" }
+tileset{ id = "unknown/12-02", description = "12-02" }
+tileset{ id = "unknown/12-03", description = "12-03" }
+tileset{ id = "unknown/1A", description = "1A" }
+tileset{ id = "unknown/2E", description = "2E" }
+tileset{ id = "unknown/4A", description = "4A" }
+tileset{ id = "unknown/59", description = "59" }
+tileset{ id = "unknown/MinishVillage01-00", description = "Minish Village 01-00" }
+tileset{ id = "unknown/MinishVillage01-01", description = "Minish Village 01-01" }
+tileset{ id = "unknown/TempleOfDropletsEntrance", description = "Temple of Droplets - Entrance" }
+tileset{ id = "unknown/TowerOfWindsTop", description = "Tower of Winds - Top" }
 
 sprite{ id = "enemies/enemy_killed", description = "Enemy killed" }
 sprite{ id = "entities/arrow", description = "Arrow" }
