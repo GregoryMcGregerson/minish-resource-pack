@@ -1,6 +1,6 @@
 # minish-resource-pack
 
-Minish Cap resource pack for the Solarus Game Engine http://www.solarus-games.org/
+Minish Cap resource pack for the Solarus Game Engine v1.5 http://www.solarus-games.org/
 
 Uses basic scripts from Christopho's YouTube tutorials. https://www.youtube.com/playlist?list=PLzJ4jb-Y0ufwPrBfO5AQMRfe2kLABQsF0
 

@@ -106,6 +106,69 @@ sprite{ id = "hero/trail", description = "Hero trail" }
 sprite{ id = "hero/tunic1", description = "Hero tunic 1" }
 sprite{ id = "menus/solarus_logo", description = "Menu: Solarus logo" }
 
+music{ id = "01 Title Screen", description = "Title Screen" }
+music{ id = "02 File Select", description = "File Select" }
+music{ id = "03 Introduction", description = "Introduction" }
+music{ id = "04 Princess Zelda", description = "Princess Zelda" }
+music{ id = "05 Festival Outskirts", description = "Festival Outskirts" }
+music{ id = "06 Picori Festival", description = "Picori Festival" }
+music{ id = "07 King Daltus", description = "King Daltus" }
+music{ id = "08 Vaati's Theme", description = "Vaati's Theme" }
+music{ id = "09 Vaati Attacks", description = "Vaati Attacks" }
+music{ id = "10 Hyrule Castle (w Intro)", description = "Hyrule Castle (w Intro)" }
+music{ id = "11 Hyrule Field", description = "Hyrule Field" }
+music{ id = "12 Minish Woods", description = "Minish Woods" }
+music{ id = "13 The Minish Cap", description = "The Minish Cap" }
+music{ id = "14 Danger", description = "Danger" }
+music{ id = "15 The Journey Begins", description = "The Journey Begins" }
+music{ id = "16 Minish Village", description = "Minish Village" }
+music{ id = "17 Inside the House", description = "Inside the House" }
+music{ id = "18 Deepwood Shrine", description = "Deepwood Shrine" }
+music{ id = "19 Mini-Boss", description = "Mini-Boss" }
+music{ id = "20 Boss", description = "Boss" }
+music{ id = "21 Element Appears", description = "Element Appears" }
+music{ id = "22 Element Received", description = "Element Received" }
+music{ id = "23 Fairy Fountain", description = "Fairy Fountain" }
+music{ id = "24 Hyrule Town", description = "Hyrule Town" }
+music{ id = "25 Cucco Chase", description = "Cucco Chase" }
+music{ id = "26 Training", description = "Training" }
+music{ id = "27 Training Completen", description = "Training Complete" }
+music{ id = "28 Mt. Crenel", description = "Mt. Crenel" }
+music{ id = "29 Cave", description = "Cave" }
+music{ id = "30 Great Fairy Fountain", description = "Great Fairy Fountain" }
+music{ id = "31 Mt. Crenel Summit", description = "Mt. Crenel Summit" }
+music{ id = "32 Cave of Flames", description = "Cave of Flames" }
+music{ id = "33 Game Over", description = "Game Over" }
+music{ id = "34 Elemental Sanctuary", description = "Elemental Sanctuary" }
+music{ id = "35 Flashback", description = "Flashback" }
+music{ id = "36 Royal Orders (Cave 2)", description = "Royal Orders (Cave 2)" }
+music{ id = "37 Castor Wilds", description = "Castor Wilds" }
+music{ id = "38 Malon", description = "Malon" }
+music{ id = "39 Syrup the Witch", description = "Syrup the Witch" }
+music{ id = "40 Wind Ruins", description = "Wind Ruins" }
+music{ id = "41 Fortress of Winds", description = "Fortress of Winds" }
+music{ id = "42 Ocarina of Wind", description = "Ocarina of Wind" }
+music{ id = "43 Into the Skies", description = "Into the Skies" }
+music{ id = "44 Temple of Droplets", description = "Temple of Droplets" }
+music{ id = "45 Secret Tunnel", description = "Secret Tunnel" }
+music{ id = "46 Royal Valley", description = "Royal Valley" }
+music{ id = "47 Royal Crypt", description = "Royal Crypt" }
+music{ id = "48 Cloud Tops", description = "Cloud Tops" }
+music{ id = "49 Palace of Winds", description = "Palace of Winds" }
+music{ id = "50 Hurry!", description = "Hurry!" }
+music{ id = "51 Dark Hyrule Castle", description = "51 Dark Hyrule Castle" }
+music{ id = "52 Vaati Battle", description = "Vaati Battle" }
+music{ id = "53 Zelda Awakens", description = "Zelda Awakens" }
+music{ id = "54 Vaati's Wrath", description = "Vaati's Wrath" }
+music{ id = "55 The Journey Ends", description = "The Journey Ends" }
+music{ id = "56 A Kingdom Restored", description = "A Kingdom Restored" }
+music{ id = "57 Credits", description = "Credits" }
+music{ id = "58 Get Item", description = "Get Item" }
+music{ id = "59 Secret Found", description = "Secret Found" }
+music{ id = "60 Special Secret Found", description = "Special Secret Found" }
+music{ id = "93 Link to the Past Title (Unused)", description = "Link to the Past Title" }
+music{ id = "95 Get Small Item (Unused)", description = "95 Get Small Item" }
+music{ id = "96 Discovery (Unused)", description = "Discovery" }
 
 sound{ id = "000", description = "000" }
 sound{ id = "001", description = "001" }
