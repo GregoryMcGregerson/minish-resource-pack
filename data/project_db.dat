@@ -1,4 +1,16 @@
-map{ id = "test", description = "test map" }
+map{ id = "Area 02 - HyruleTown/02_00", description = "Area 02 - HyruleTown" }
+map{ id = "Area 02 - HyruleTown/15_00", description = "Area 15 - PicoriFestival" }
+map{ id = "Area 03 - HyruleField/03_00" }
+map{ id = "Area 03 - HyruleField/03_01" }
+map{ id = "Area 03 - HyruleField/03_02" }
+map{ id = "Area 03 - HyruleField/03_03" }
+map{ id = "Area 03 - HyruleField/03_04" }
+map{ id = "Area 03 - HyruleField/03_05" }
+map{ id = "Area 03 - HyruleField/03_06" }
+map{ id = "Area 03 - HyruleField/03_07" }
+map{ id = "Area 03 - HyruleField/03_08" }
+map{ id = "Area 03 - HyruleField/03_09" }
+map{ id = "Area 06 - MountCrenel/1A_00", description = "Area 1A - MountCrenel" }
 
 tileset{ id = "dungeon/2C", description = "2C" }
 tileset{ id = "dungeon/34", description = "34" }
@@ -104,7 +116,9 @@ sprite{ id = "hero/sword1", description = "Hero sword 1" }
 sprite{ id = "hero/sword_stars1", description = "Hero sword stars 1" }
 sprite{ id = "hero/trail", description = "Hero trail" }
 sprite{ id = "hero/tunic1", description = "Hero tunic 1" }
+sprite{ id = "hero/tunic1.capless", description = "Hero tunic 1 Capless" }
 sprite{ id = "menus/solarus_logo", description = "Menu: Solarus logo" }
+sprite{ id = "temp/temp" }
 
 music{ id = "01 Title Screen", description = "Title Screen" }
 music{ id = "02 File Select", description = "File Select" }
@@ -499,4 +513,5 @@ font{ id = "minish_green", description = "minish_green" }
 font{ id = "minish_red", description = "minish_red" }
 font{ id = "minish_white", description = "minish_white" }
 font{ id = "rupee", description = "rupee" }
+
 

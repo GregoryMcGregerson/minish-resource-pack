@@ -1,0 +1,64 @@
+properties{
+  x = 0,
+  y = 0,
+  width = 1008,
+  height = 688,
+  min_layer = 0,
+  max_layer = 2,
+  tileset = "outside/HyruleField",
+  music = "11 Hyrule Field",
+}
+
+teletransporter{
+  name = "6",
+  layer = 0,
+  x = 464,
+  y = 0,
+  width = 80,
+  height = 16,
+  destination_map = "Area 02 - HyruleTown/02_00",
+  destination = "02_00_S",
+}
+
+destination{
+  name = "03_01_N",
+  layer = 0,
+  x = 504,
+  y = 21,
+  direction = 3,
+}
+
+teletransporter{
+  layer = 0,
+  x = 0,
+  y = 96,
+  width = 16,
+  height = 16,
+  destination_map = "Area 03 - HyruleField/03_01",
+}
+
+destination{
+  name = "destination",
+  layer = 0,
+  x = 16,
+  y = 109,
+  direction = 0,
+}
+
+teletransporter{
+  layer = 0,
+  x = 992,
+  y = 96,
+  width = 16,
+  height = 48,
+  destination_map = "Area 03 - HyruleField/03_01",
+}
+
+destination{
+  name = "destination_2",
+  layer = 0,
+  x = 992,
+  y = 125,
+  direction = 2,
+}
+

@@ -4,20 +4,22 @@
 	boomerang1			hero/boomerang.tunic.png
 	boomerang2			hero/boomerang.tunic.png
 	bow				hero/bow.tunic.png
-	brandish			hero/miscellaneous.png
+	brandish			hero/brandish.png
 	carrying_stopped		hero/carrying.png
 	carrying_walking		hero/carrying.png
 	dying				hero/dying.png
 	falling				hero/falling.png
 	grabbing			hero/grabbing.png
+	hammer				hero/hammer.tunic.png
 	hookshot			hero/hookshot.tunic.png
-	hurt				hero/miscellaneous.png
+	hurt				hero/hurt.png
 	jumping				hero/jumping.png
 	lifting				hero/lifting.png
 	plunging_lava			hero/plunging.png
 	plunging_water			hero/plunging.png
 	pulling				hero/pulling.png
 	pushing				hero/pushing.png
+	rod				hero/rod.tunic.png
 	spin_attack			hero/spin_attack.tunic1.png
 	stopped				hero/stopped.tunic.png
 	stopped_with_shield		hero/stopped.tunic.png

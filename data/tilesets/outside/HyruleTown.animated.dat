@@ -1,0 +1,24 @@
+background_color{ 255, 255, 255 }
+tile_pattern{
+  id = "1",
+  ground = "empty",
+  default_layer = 1,
+  x = { 0, 0, 0, 0, 0 },
+  y = { 0, 32, 64, 96, 128 },
+  width = 32,
+  height = 32,
+  frame_delay = 256,
+  mirror_loop = true,
+}
+
+tile_pattern{
+  id = "2",
+  ground = "wall",
+  default_layer = 0,
+  x = { 48, 64, 80, 96 },
+  y = { 0, 0, 0, 0 },
+  width = 16,
+  height = 48,
+  frame_delay = 256,
+}
+
