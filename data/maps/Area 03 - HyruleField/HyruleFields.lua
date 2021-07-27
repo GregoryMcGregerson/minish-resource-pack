@@ -1,4 +1,4 @@
--- Lua script of map 02_00.
+-- Lua script of map Area 03 - HyruleField/HyruleFields.
 -- This script is executed every time the hero enters this map.
 
 -- Feel free to modify the code below.

@@ -10,6 +10,7 @@ map{ id = "Area 03 - HyruleField/03_06" }
 map{ id = "Area 03 - HyruleField/03_07" }
 map{ id = "Area 03 - HyruleField/03_08" }
 map{ id = "Area 03 - HyruleField/03_09" }
+map{ id = "Area 03 - HyruleField/HyruleFields" }
 map{ id = "Area 06 - MountCrenel/1A_00", description = "Area 1A - MountCrenel" }
 
 tileset{ id = "dungeon/2C", description = "2C" }
